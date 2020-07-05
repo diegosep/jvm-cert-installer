@@ -8,8 +8,8 @@ Bash script for installing certificates in the JVM
 sudo JAVA_HOME=$JAVA_HOME ./jvm-cert-installer.sh --host google.com
 ```
 
-## Command options
-| Command | Short Command | Description | Default value | 
+## Arguments
+| Argument | Short Argument | Description | Default value | 
 | -------------  | ------------- | ------------- | ------------- |
 | --host  | -h   | Host, I.e.: _google.com_ |  | **Required** |
 | --port         | -p | Host port | **443** |
