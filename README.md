@@ -1,5 +1,5 @@
 # jvm-cert-installer
-Bash script for installing certificates
+Bash script for installing certificates in the JVM
 
 **JAVA_HOME** is required
 
